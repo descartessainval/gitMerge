@@ -1,4 +1,4 @@
-#include <triple.h>
+#include "triple.h"
 
 int     triple(int nombre)
 {
